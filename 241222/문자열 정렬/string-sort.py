@@ -1,3 +1,5 @@
 a = input()
-sort(a)
+a = sorted(a)
+sor = ''.join(a)
+print(sor)
 
